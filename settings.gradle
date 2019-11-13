@@ -1,2 +1,2 @@
-include ':app', ':thread', ':datathread'
+include ':app', ':thread', ':datathread', ':looper'
 rootProject.name='LaboratoryLesson4'
